@@ -2,24 +2,24 @@
   "routes": [
     {
       "method": "GET",
-      "path": "/lading-page",
-      "handler": "lading-page.find",
+      "path": "/landing-page",
+      "handler": "landing-page.find",
       "config": {
         "policies": []
       }
     },
     {
       "method": "PUT",
-      "path": "/lading-page",
-      "handler": "lading-page.update",
+      "path": "/landing-page",
+      "handler": "landing-page.update",
       "config": {
         "policies": []
       }
     },
     {
       "method": "DELETE",
-      "path": "/lading-page",
-      "handler": "lading-page.delete",
+      "path": "/landing-page",
+      "handler": "landing-page.delete",
       "config": {
         "policies": []
       }
