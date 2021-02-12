@@ -1,5 +1,3 @@
-//dump command: docker exec -i postgres psql -h 127.0.0.1 -U postgres -d strapi -W < strapi.sql
-
 module.exports = ({ env }) => ({
   defaultConnection: 'default',
   connections: {
